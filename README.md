@@ -5,5 +5,5 @@ I used Japanese comments. So you can't read comments if you are not Japanese peo
 # How To Use(Setting)
 You can clone this app in your computer. Please open installed file and run Visual Studio 2019(VS). This app is include the lib 'OpenCV(This library is easy to process image)' . So you are necessary to install OpenCV in your computer.(Please change VS's setting of linker and adding include library.)
 
-# How To Use(Running)
+# How To Use(Run)
 You are necessary to set the image of Soap-film,Soap-film(BackGround), Cover-Glass, Cover-Glass(BackGround).
